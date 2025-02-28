@@ -7,7 +7,7 @@ Repositório para a prática de Git e GitHub
 git clone <url_repositorio_remoto>
 ```
 
-Prepararando os arquivos para o commit
+2. Prepararando os arquivos para o commit
 
 ```bash
 git add <arquivo1> <arquivo2> ... <arquivoN>
